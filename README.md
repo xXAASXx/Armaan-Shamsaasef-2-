@@ -1,6 +1,6 @@
-# Armaan Shamsaasef Repo 
+# Armaan Shamsaasef Indivisual Repository 
 
-# Notes 5.1 5.2 5.3 5.4 5.5, Quiz Scores, and Github Actions
+## Notes 5.1 5.2 5.3 5.4 5.5, Quiz Scores, and Github Actions
 
 <img width="1152" alt="Screen Shot 2022-02-18 at 11 49 18 AM" src="https://user-images.githubusercontent.com/89277945/154751954-bb725c9d-3dd3-45fd-b396-1598c894acc5.png">
 
@@ -51,7 +51,7 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 
 
 
-# Create Task
+## Create Task
 # WishLIST - Paul and Armaan
 ### Planning
 This Create Task Idea will allow the user to add books to a Wishlist by being prompted with different books and choosing which ones they like. By the end, they will have a list of the books they chose.
