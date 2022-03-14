@@ -134,7 +134,9 @@ Our project is dedicated to the learning, improvement, and utmost enjoyment of c
 [Replit](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
 
 [Level 1 Code](https://github.com/KoolKidKai/Siuuuu/blob/main/templates/level1.html)
+
 Code Snippets for Key Learnings:
+
 ![image](https://user-images.githubusercontent.com/89219486/158040786-9e95a90f-a878-4e34-9806-548a7339d423.png)
 
 
