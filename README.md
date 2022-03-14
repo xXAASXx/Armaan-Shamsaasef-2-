@@ -127,3 +127,20 @@ ii | Identifies the result of each call | Result #1: If the conditions are met, 
 Result #2 Just the index of the questions will be added by 1.|
 
 
+Final Idea: Site that gives Coding questions, with rewards and surprises for each correct answer (Level System).
+
+Our project is dedicated to the learning, improvement, and utmost enjoyment of coding! We aspire to help beginners improve their coding ability by implementing a series of levels that increase difficulty as they complete the tasks. By the end, they should see themselves as better programmers than before while also having enjoyed the journey. We are Team Siuuuu and are sponsored by Hackclub, a group of coders hoping to teach beginner coders.
+
+[Replit](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
+
+Code for Level 1
+Code Snippets for Key Learnings:
+
+How Questions are Created (hoping to shift to a const of questions in the future): image
+
+Response to User Input: image
+
+Key Features that are in Progress: Scoring system to reward players if answer is correct Key Features that are in Progress: Link to replit for harder levels if code is > 1 line (so that we don't run into errors with the .value call)
+
+
+
