@@ -133,6 +133,8 @@ Our project is dedicated to the learning, improvement, and utmost enjoyment of c
 
 [Replit](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
 
+[Individual Replit](https://replit.com/@ArmaanShamsaase/Armaan-Shamsaasef-2-1#Menu.py)
+
 [Level 1 Code](https://github.com/KoolKidKai/Siuuuu/blob/main/templates/level1.html)
 
 Code Snippets for Key Learnings:
