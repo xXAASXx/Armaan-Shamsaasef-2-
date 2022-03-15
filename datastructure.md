@@ -1,4 +1,4 @@
-{% inlcude navigation.html %}
+{% include navigation.html %}
 # Data Structure 
 
 Final Idea: Site that gives Coding questions, with rewards and surprises for each correct answer (Level System).
