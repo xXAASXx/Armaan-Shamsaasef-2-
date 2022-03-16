@@ -30,3 +30,31 @@ How does someone that is empowered help someone that is not empowered? Describe 
 
 Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 - Redtaping is blocking digital empowerment because it makes people have to follow additional steps in order to access information or technologies. We see this type of thing occurring in many circumstances, not necessarily in just tech. We have similar barriers at Del Norte when we try to connect ourselves to web services through a universal network for students. This field requires a password and other information in order to gain access.
+
+
+# 5.3 Notes
+
+
+# 5.4 Notes
+
+
+### 5.3 GitHub Actions
+Does the owner of the computer think this was intentional?
+- Yes, beacause the company has a consistant bias that keeps happening.
+How do you think this happened?
+- The company HP makes people have a specific mindset which allows them to talk with promomting their own company as a whole.
+Is this harmful? Was it intended to be harmful or exclude?
+- This bias is not harmful as but could be dangerous as they can know more things about you everyday. 
+Should it be corrected?
+- I believe it should be corrected so that people don't get their infornmation stolen. 
+What would you or should you do to produce a better outcome?
+- Not hearing everything and only understanding specific details. 
+### 5.4 GitHub Actions
+CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+
+- My crowdsearch idea is to find differerent water sources as this is a problem around the world. Many countries suffer from water shortages and if we are able to get the correct data we can construct a way of helping. 
+
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
+- I believe crowdsourcing can make a website a lot better but it would have to be controlled with specific algorithms. Crowdsourcing allows a lot more opinions to be made and different biases take place into making the project as a whole, a whole lot better. 
+
