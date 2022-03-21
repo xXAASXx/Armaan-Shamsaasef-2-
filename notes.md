@@ -3,7 +3,9 @@
 
 <img width="1152" alt="Screen Shot 2022-02-18 at 11 49 18 AM" src="https://user-images.githubusercontent.com/89277945/154751954-bb725c9d-3dd3-45fd-b396-1598c894acc5.png">
 
-# 5.3 Notes
+# Notes for Week 1
+
+## 5.3 Notes
 ### Computing Bias
 
 - Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
@@ -11,7 +13,7 @@
 - Biases can be embedded at all levels of software development
 
 
-# 5.4 Notes
+## 5.4 Notes
 ### Crowdsourcing
 
 Public Data Sets:
@@ -48,6 +50,7 @@ What about Del Norte crowdsourcing? Could your final project be better with crow
 - I believe crowdsourcing can make a website a lot better but it would have to be controlled with specific algorithms. Crowdsourcing allows a lot more opinions to be made and different biases take place into making the project as a whole, a whole lot better. 
 
 
+# Notes for Week 0
 
 ### 5.1 Notes
 - Creating Innovation designed with grouping
@@ -58,7 +61,7 @@ What about Del Norte crowdsourcing? Could your final project be better with crow
 - An undecidable problem may have some instances that have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem
 
 
-## 5.1 Github Actions
+### 5.1 Github Actions
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 Beneficial: Firstly, computers can store endless amounts of information and can help reduce the wastage of natural resources that goes into the production of paper, books, supplies. Secondly, computing connects users with millions of people across the internet through messages, social media, and more. This used to not be possible without the development of technology and computer automation. Thirdly,
 
@@ -67,7 +70,7 @@ Harmful: Firstly, too much use of technology can make you addicted to unrealisti
 Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 Answer: Dopamine issues are where you are too addicted to doing something to the point where you rely on the pleasure it gives rather than its harmful consequences. For example, I have fallen into the trap of playing video games and watching YouTube instead of preparing for school because of the pleasure I received in the moment from the release of dopamine. It can effect school and physical performance if that is the only thing you focus on.
 
-## 5.2 Github Actions
+### 5.2 Github Actions
 How does someone empower themself in a digital world?
 - You can empower yourself in a digital world by staying informed about technologies and using them in your daily life. Being educated and provided with tech will help empower people in a digital environment.
 
