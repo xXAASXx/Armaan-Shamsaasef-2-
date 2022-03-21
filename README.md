@@ -1,4 +1,4 @@
-# Armaan Shamsaasef Repo 
+# Armaan Shamsaasef Indivisual Repository
 
 # Notes 5.1 5.2 5.3 5.4 5.5, Quiz Scores, and Github Actions
 
