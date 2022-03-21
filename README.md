@@ -4,7 +4,7 @@
 
 ## Review Ticktes
 ### [Week 0](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issues/1)
-### Week 1
+### [Week 1](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issues/2)
 ### Week 2
 ### Week 3
 ### Week 4
