@@ -1,10 +1,10 @@
 {% include navigation.html %}
 # Data Structures
 
-# Replit 
+# Week 1
+## Replit 
 - [Lists+Loops.py](https://replit.com/@ArmaanShamsaase/Armaan-Shamsaasef-2-1#list+loops.py) 
 - [Fibonacci.py](https://replit.com/@ArmaanShamsaase/Armaan-Shamsaasef-2-1#fib.py)
-## Week 1
 
 Python Lists Vs Dictionaries
 
