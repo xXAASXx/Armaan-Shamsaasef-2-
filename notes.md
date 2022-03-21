@@ -1,5 +1,5 @@
 {% include navigation.html %}
-# Notes 5.1 5.2, Quiz Scores, and Github Actions
+# Test Prep Study
 
 <img width="1152" alt="Screen Shot 2022-02-18 at 11 49 18 AM" src="https://user-images.githubusercontent.com/89277945/154751954-bb725c9d-3dd3-45fd-b396-1598c894acc5.png">
 
@@ -33,9 +33,27 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 
 
 # 5.3 Notes
+### Computing Bias
+
+- Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation
+- Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
+- Biases can be embedded at all levels of software development
 
 
 # 5.4 Notes
+### Crowdsourcing
+
+Public Data Sets:
+- Kaggle
+- Google Public Datasets
+- Data.gov
+- Local Government Widespread access to info and public data facilitates the identification of problems, development of solutions and dissemination of results.
+
+Distributed Computing:
+- A ton of computers do 1 task Examples:
+- Spotify with collab playlists
+- Crowdfunding like kickstarter and GoFundMe
+- Blockchain like crypto and other tokens
 
 
 ### 5.3 GitHub Actions
