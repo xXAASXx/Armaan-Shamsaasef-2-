@@ -1,8 +1,11 @@
 {% include navigation.html %}
 # Data Structures
 
-
+# Replit 
+- [Lists+Loops.py](https://replit.com/@ArmaanShamsaase/Armaan-Shamsaasef-2-1#list+loops.py) 
+- [Fibonacci.py](https://replit.com/@ArmaanShamsaase/Armaan-Shamsaasef-2-1#fib.py)
 ## Week 1
+
 Python Lists Vs Dictionaries
 
 List is a collection of index values pairs as that of array in JS. Dictionary is a hashed structure of key and value pairs.
