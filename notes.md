@@ -3,6 +3,50 @@
 
 <img width="1152" alt="Screen Shot 2022-02-18 at 11 49 18 AM" src="https://user-images.githubusercontent.com/89277945/154751954-bb725c9d-3dd3-45fd-b396-1598c894acc5.png">
 
+# Notes for Week 2
+
+## 5.5 Notes
+### Legal and Ethical Concerns
+- 
+- 
+- 
+- 
+### 5.5 Github Actions
+When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+- 
+
+Make a license for your personal and Team project. Document license you picked and why.
+- 
+
+## 5.6 Notes
+### Safe Computing
+- 
+- 
+- 
+- 
+- 
+### 5.6 Github Actions
+1.) Describe PII you have seen on project in CompSci Principles.
+
+
+2.) What are your feelings about PII and your exposure?
+
+
+3.) Describe good and bad passwords? What is another step that is used to assist in authentication.
+
+
+4.) Try to describe Symmetric and Asymmetric encryption.
+
+
+5.) Provide and example of encryption we used in deployment.
+
+
+6.) Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
+
+
+
+
 # Notes for Week 1
 
 ## 5.3 Notes
