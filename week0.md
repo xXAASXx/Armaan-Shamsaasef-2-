@@ -1,5 +1,15 @@
 {% include navigation.html %}
 
+# Notes for Week 0
+
+### 5.1 Notes
+- Creating Innovation designed with grouping
+- Single effects can be viewed as beneficial and harmful by different or same people
+### 5.2 Notes
+- A decidable problem is a decision problem for which an algorithm can be written to produce a correct output for all inputs
+- An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes-or-no answer.
+- An undecidable problem may have some instances that have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem
+
 ### 5.1 Github Actions
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 Beneficial: Firstly, computers can store endless amounts of information and can help reduce the wastage of natural resources that goes into the production of paper, books, supplies. Secondly, computing connects users with millions of people across the internet through messages, social media, and more. This used to not be possible without the development of technology and computer automation. Thirdly,
