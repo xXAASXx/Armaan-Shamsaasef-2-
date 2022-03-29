@@ -2,7 +2,7 @@
 
 # Weeks
 
-{% include weeks.html %}
+{% include week.html %}
 
 # Test Prep Study
 
