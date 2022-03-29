@@ -37,6 +37,7 @@ Should it be corrected?
 - I believe it should be corrected so that people don't get their infornmation stolen. 
 What would you or should you do to produce a better outcome?
 - Not hearing everything and only understanding specific details. 
+
 ### 5.4 GitHub Actions
 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
 
