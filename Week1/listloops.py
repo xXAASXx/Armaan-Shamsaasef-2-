@@ -61,9 +61,14 @@ def recursive_loop(i):
 
 
 
-print("For loop")
-for_loop()
-print("While loop")
-while_loop(0)  
-print("Recursive loop")
-recursive_loop(0)
+
+def loops():
+  print("For loop")
+  for_loop()
+  print("While loop")
+  while_loop(0)  
+  print("Recursive loop")
+  recursive_loop(0)  
+
+if __name__ == "__main__":
+    loops()
