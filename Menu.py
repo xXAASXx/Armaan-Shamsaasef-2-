@@ -9,24 +9,6 @@ from Week1.listloops import loops
 from Week2.factorialCALL import printfac
 from Week2.MATH import trian
 from Week2.Palindrome import pal
-
-# Menu banner is typically defined by menu owner
-border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
-
-
-# def menu
-# using main_menu list:
-# 1. main menu and submenu reference are created [Prompts, Actions]
-# 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
-def menu():
-  print()
-  title = "Function Menu" + banner
-  menu_list = main_menu.copy()
-  menu_list.append(["WEEK 0", week0_func])
-  menu_list.append(["WEEK 1", week1_func])
-  menu_list.append(["WEEK 2", week2_func])
-  buildMenu(title, menu_list)
   
 
 week0 = {
