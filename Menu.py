@@ -77,17 +77,17 @@ week2 = {
 
 mainMenu = {
     0: {
-        "display": "Week 0",
+        "display": "Static",
         "exec": week0,
         "type": "submenu"
     },
     1: {
-        "display": "Week 1",
+        "display": "Info.DB Lists",
         "exec": week1,
         "type": "submenu"
     },
     2: {
-        "display": "Week 2",
+        "display": "Math",
         "exec": week2,
         "type": "submenu"
     },

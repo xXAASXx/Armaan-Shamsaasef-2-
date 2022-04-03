@@ -30,7 +30,7 @@ def ship():
   ocean_print()
   # loop control variables
   start = 0  # start at zero
-  distance = 66 # how many times to repeat
+  distance = 60 # how many times to repeat
   step = 2  # count by 2
 
   # loop purpose is to animate ship sailing
