@@ -11,7 +11,7 @@ from Week2.MATH import trian
 from Week2.Palindrome import pal
   
 
-week0 = {
+Drawing = {
     1: {
         "display":"Christmas Tree",
         "exec":christmastree,
@@ -21,49 +21,49 @@ week0 = {
         "display":"Ship",
         "exec":ship,
         "type":"func"},
-    3: {
-        "display":"Keypad ",
-        "exec":print_matrix,
-        "type":"func"},
-    4: {
-        "display":"Swap ",
-        "exec":swap,
-        "type":"func"},
     0: {
         "display": "Quit",
         "exec":quit,
         "type":"func"
     }
 }
-week1 = {
+Info = {
   1: {
-    "display": "Fibonacci",
-    "exec": fibonacci,
-    "type": "func"
-  },
-  2: {
     "display": "Lists & Loops",
     "exec": loops,
     "type": "func"
   },
+  2: {
+    "display":"Keypad ",
+    "exec":print_matrix,
+    "type":"func"},
+  3: {
+    "display":"Swap ",
+    "exec":swap,
+    "type":"func"},
   0: {
     "display": "Quit",
     "exec": quit,
     "type": "func"
   }
 }
-week2 = {
+Math = {
     1: {
         "display":"Factorial",
         "exec":printfac,
         "type":"func"
     },
     2: {
+      "display": "Fibonacci",
+      "exec": fibonacci,
+      "type": "func"
+    },
+    3: {
         "display":"Math Function: Triangular Numbers",
         "exec":trian,
         "type":"func"
     },
-    3: {
+    4: {
         "display":"EC: Palindrome",
         "exec":pal,
         "type":"func"
@@ -77,18 +77,18 @@ week2 = {
 
 mainMenu = {
     0: {
-        "display": "Static",
-        "exec": week0,
+        "display": "Drawings",
+        "exec": Drawing,
         "type": "submenu"
     },
     1: {
-        "display": "Info.DB Lists",
-        "exec": week1,
+        "display": "Info",
+        "exec": Info,
         "type": "submenu"
     },
     2: {
-        "display": "Math",
-        "exec": week2,
+        "display": "Mathematics",
+        "exec": Math,
         "type": "submenu"
     },
 
