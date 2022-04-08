@@ -2,7 +2,7 @@
 
 # Create Task
 
-## WishLIST - Paul and Armaan
+## WishLIST by Armaan Shamsaasef
 
 ### Planning
 This Create Task Idea will allow the user to add books to a Wishlist by being prompted with different books and choosing which ones they like. By the end, they will have a list of the books they chose.
