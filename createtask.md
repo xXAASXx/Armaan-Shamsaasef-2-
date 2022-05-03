@@ -53,7 +53,7 @@ Part C:
 Sub-Part | Question | Answer | 
 --- | -------- | --------- |
 i | The first program code segment must be a student-developed procedure that: Defines the procedure’s name and return type (if necessary), contains and uses one or more parameters that have an effect on the functionality of the procedure, and implements an algorithm that includes sequencing, selection and iteration | ![image](https://cdn.discordapp.com/attachments/749509501773807677/945741909127753758/Screen_Shot_2022-02-22_at_9.58.09_AM.png) |
-ii | The second program code segment must show where your student-developed procedure is being called in your program | Runs the function with its own specific parameter! Example Down Below |
+ii | The 2nd program code segment must show where your student-developed procedure is being called in your program | Runs the function with its own specific parameter! Example Down Below |
 ```
 function chosens() {
                 document.getElementById("type").innerHTML = "Sci-Fi"
