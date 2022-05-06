@@ -14,6 +14,8 @@ Week 2 | [Classy Functions](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issu
 Week 3 | [Algorithmic Final](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issues/5) | [Derrick Huang](https://replit.com/@DerrickHuang2/derrickindividual-1#main.py)
 Week 4 | [Accounts and Logins](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issues/6) | [IntelliJ]()
 Week 5 | [Proctored MCQ Week1 : Quiz1, Quiz2 Scores](https://github.com/xXAASXx/Armaan-Shamsaasef-2-/issues/6) | [Create Task]()
+Week 6 | [Proctored MCQ Week2 : Quiz3 Scores]() | [Create Task]()
+
 
 
 
